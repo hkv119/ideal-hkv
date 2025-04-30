@@ -1,0 +1,44 @@
+.resume-container {
+    display: flex;
+    font-family: 'Arial', sans-serif;
+    background: white;
+    color: #333;
+    padding: 1rem;
+  }
+  
+  .left-column {
+    width: 30%;
+    background-color: #f4f4f4;
+    padding: 1rem;
+  }
+  
+  .right-column {
+    width: 70%;
+    padding: 1rem 2rem;
+  }
+  
+  .profile-img {
+    width: 100%;
+    border-radius: 50%;
+    margin-bottom: 1rem;
+  }
+  
+  .name {
+    font-size: 2rem;
+    color: #1e2b50;
+  }
+  
+  .title {
+    font-size: 1.2rem;
+    color: gray;
+    margin-bottom: 1.5rem;
+  }
+  
+  .section {
+    margin-bottom: 1.5rem;
+  }
+  
+  .section h3 {
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 0.5rem;
+  }
